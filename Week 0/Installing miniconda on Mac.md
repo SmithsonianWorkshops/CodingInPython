@@ -7,6 +7,7 @@ This guide is focused on how to install the miniconda package on a Mac.
 
 The entire Anaconda package is quite large. Rather than installing the whole thing, we will be installing [miniconda](http://conda.pydata.org/miniconda.html). Miniconda simply installs Python and the machinery to add additional packages that are enabled in the conda package management system. After we have finished installing miniconda, we will install a couple of useful packages that we plan to use during this workshop.
 
+**Install Guide:**
 Navigate to the [miniconda website](http://conda.pydata.org/miniconda.html). Click on the "64-bit (bash installer)" link underneath "Mac OS X".
 
 ![miniconda_install](https://cloud.githubusercontent.com/assets/1823345/16455409/38e9694e-3de2-11e6-97cf-3585974a7d74.png)
