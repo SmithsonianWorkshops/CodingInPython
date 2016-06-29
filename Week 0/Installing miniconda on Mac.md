@@ -11,3 +11,71 @@ Navigate to the [miniconda website](http://conda.pydata.org/miniconda.html). Cli
 
 ![miniconda_install](https://cloud.githubusercontent.com/assets/1823345/16455409/38e9694e-3de2-11e6-97cf-3585974a7d74.png)
 
+It should automatically be downloaded to your ```~/Downloads``` directory. However, if you are prompted to choose a location to save it in, choose the ```Downloads``` directory.
+
+Open your terminal appliction. This can be found in your ```Utilities``` folder within the ```Applications``` folder.
+
+![terminal_application](https://cloud.githubusercontent.com/assets/1823345/16456124/ccb32a82-3de4-11e6-97e8-b6dda72fe4c6.png)
+
+It will look something like this:
+
+![terminal](https://cloud.githubusercontent.com/assets/1823345/16456175/0c9c1032-3de5-11e6-92d8-cb2e797729e8.png)
+
+Go ahead and navigate to your ```Downloads``` directory by entering the command:
+
+```
+$ cd ~/Downloads
+```
+
+_Note: whenever the '$' sign is used in a command, it indicates that this command should be made in the terminal shell. Do not copy the '$' into your actual command_
+
+Now let's make sure that your miniconda install script is in your directory by listing the contents of your directory with:
+
+```
+$ ls
+```
+
+In the contents, there should be a file called something like ```Miniconda3-latest-MacOSX-x86_64.sh```.
+
+If this file is not listed, go back to the original step and re-download it. Make sure that it is saved to your ```Downloads``` folder.
+
+Now being the install with:
+
+```
+$ sh Miniconda3-latest-MacOSX-x86_64.sh
+```
+
+It will ask you if you want to continue the installation process, go ahead and press ENTER. Continue to press ENTER until you get through the license agreement. Eventually, it will prompt you with the following question:
+
+```
+Do you approve the license terms? [yes|no]
+>>>
+```
+Go ahead and type ```yes```.
+
+It will then request if you wish to install ```Miniconda3	``` into the default location. Press ENTER to confirm the location. 
+
+The installer will then begin installing the packages. Once finisished, it will ask:
+
+```
+Do you wish the installer to prepend the Miniconda3 install location
+to PATH in your /Users/frandsenp/.bash_profile ? [yes|no]
+[yes] >>>
+```
+
+Type ```yes``` and press enter. When you do this, your default version of Python will change from the version that comes pre-installed on Macs to Python 3 installed with miniconda. You will need to open a new terminal window in order for this to become active. Let's do this. Go ahead and close the current terminal window with:
+
+```
+$ exit
+```
+
+Then reopen terminal. Let's test to make sure that the new version of Python was installed properly. We're going to use the Unix command ```which```:
+
+```
+$ which python
+```
+
+The output should look something like this (substitute your username for mine):
+
+![which_python](https://cloud.githubusercontent.com/assets/1823345/16456844/5ceee85a-3de7-11e6-94c1-bedb2f0232ec.png)
+
