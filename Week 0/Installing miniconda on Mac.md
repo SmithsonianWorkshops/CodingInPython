@@ -80,3 +80,18 @@ The output should look something like this (substitute your username for mine):
 
 ![which_python](https://cloud.githubusercontent.com/assets/1823345/16456844/5ceee85a-3de7-11e6-94c1-bedb2f0232ec.png)
 
+Now that you're setup, we'll install a couple of important Python packages using the conda package manager. The first one that we will install is Jupyter so that we can take advantage of Jupyter notebooks later in the class. To do this, you only need to enter a single simple command:
+
+```
+$ conda install jupyter
+```
+
+Jupyter requires many other dependencies outside of the vanilla Python install. Fortunately, conda knows this and will automatically install each dependency that Jupyter requires. After issuing the command above, you will receive a prompt with the names of the dependencies that need to be installed/upgraded. Additionally, you will receive a prompt requesting whether you wish to proceed with the install:
+
+```
+Proceed ([y]/n)?
+```
+
+Go ahead and press ENTER. Conda will then install all necessary packages to your system.
+
+That's all that we'll install for now. I hope this give you a good idea of how to easily install Python packages using conda.
