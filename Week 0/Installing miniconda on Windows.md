@@ -32,7 +32,7 @@ Ensure that both of the Advanced Installation Options checkboxes are selected, a
 
 It will take a little while (just a minute or 2) going through the actual installation, but you should finally get a success message. Uncheck the option to "Learn more about Anaconda Cloud" (unless you really want to), and click Finish.
 
-![miniconda_install_success](../images/miniconda__install_success.png)
+![miniconda_install_success](../images/miniconda_install_success.png)
 
 ### Verify Installation
 
