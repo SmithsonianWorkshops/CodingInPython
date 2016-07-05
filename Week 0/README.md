@@ -8,6 +8,6 @@ Before we begin our class, we would like everyone to have Python 3 installed on 
 
 We will also need a text editor to create and edit Python script files. We will be using Sublime Text 3 as the text editor that we will be demonstrating with in class.
 
-[Installing Sublime Text on Mac](Installing Sublime Text on Mac.md)
+[Installing Sublime Text on Mac](Installing Sublime Text 3 on Mac.md)
 
-[Installing Sublime Text on Windows](Installing Sublime Text on Windows.md)
+[Installing Sublime Text on Windows](Installing Sublime Text 3 on Windows.md)
