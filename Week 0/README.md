@@ -6,8 +6,8 @@ Before we begin our class, we would like everyone to have Python 3 installed on 
 
 [Installing Miniconda on Windows](Installing miniconda on Windows.md)
 
-We will also need a text editor to create and edit Python script files. We will be using Sublime Text 2 as the text editor that we will be demonstrating with in class.
+We will also need a text editor to create and edit Python script files. We will be using Sublime Text 3 as the text editor that we will be demonstrating with in class.
 
-[Installing Sublime Text 2 on Mac](Installing Sublime Text 2 on Mac.md)
+[Installing Sublime Text on Mac](Installing Sublime Text on Mac.md)
 
-[Installing Sublime Text 2 on Windows](Installing Sublime Text 2  on Windows.md)
+[Installing Sublime Text on Windows](Installing Sublime Text on Windows.md)

@@ -1,16 +1,16 @@
-## Installing Sublime Text 2 on Windows
+## Installing Sublime Text 3 on Windows
 
-This guide is focused on how to install the Sublime Text 2 text editor on a Windows machine.
+This guide is focused on how to install the Sublime Text 3 text editor on a Windows machine.
 
 ### Background
 
-We will be using Sublime Text 2 as a code editor. Think of it as a souped-up version of Notepad that will make writing code a lot easier.
+We will be using Sublime Text 3 as a code editor. Think of it as a souped-up version of Notepad that will make writing code a lot easier.
 
-We chose Sublime Text 2 because it is available for both Macs and Windows machines, and it will be the editor that we will be using to demonstrate in class. Other similar alternatives for Windows computers are [Notepad++](https://notepad-plus-plus.org/), and [Atom](https://atom.io/).
+We chose Sublime Text 3 because it is available for both Macs and Windows machines, and it will be the editor that we will be using to demonstrate in class. Other similar alternatives for Windows computers are [Notepad++](https://notepad-plus-plus.org/), and [Atom](https://atom.io/).
 
 ### Install Guide
 
-Navigate to the [Sublime Text website](http://www.sublimetext.com/2). Click on the "Windows 64 bit" link.
+Navigate to the [Sublime Text website](http://www.sublimetext.com/). Click on the "Download for Windows" link.
 
 ![sublime_text_windows_installer](../images/sublime_text_windows_installer.png)
 
