@@ -93,7 +93,7 @@ print(name)
 
 Now that you know how to ask for input and have experience with the addition operator, you should have the tools to write a simple addition calculator.
 
-For your homework, you will create a program that requests two numbers from the user, then adds those numbers together and returns the result.
+For your homework, you will create a program that requests two numbers from the user and returns the sum of those numbers.
 
 Good luck!
 
