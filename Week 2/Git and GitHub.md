@@ -15,7 +15,7 @@ As you can see, the screenshot shows the tutorial selected. The tutorial is usef
 
 When you create the repo it will give you the option to specify the Path. ```~/GitHub/CodingInPythonExercises``` is a reasonable path for the repository.
 
-Now you can open the folder in Finder (on a mac). By "right clicking" (two finder click on the trackpad, or control + click) on the "CodingInPython" label in the lefthand pane and selecting, "Open in Finder". I imagine that the workflow is similar on a PC. This should give you an empty folder.
+Now you can open the folder in Finder (on a mac). By "right clicking" (two finder click on the trackpad, or control + click) on the "CodingInPython" label in the lefthand pane and selecting, "Open in Finder" ("Open in Explorer" for PCs). This should give you an empty folder.
 
 To get started, you might want to create a text file called README.md. You can enter a little bit about your project in the README file. Once you write a little bit about the project, you can save it to the folder with the name "README.md". Your GitHub App will then update automatically and look something like this:
 
