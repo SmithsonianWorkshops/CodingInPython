@@ -9,8 +9,14 @@ Let's first take a look at the GitHub app:
 
 ![GitHub Desktop](../images/GitHubDesktop.png)
 
-As you can see, the screenshot shows the tutorial selected. The tutorial is useful and will give you an overview of how to use the app. For now, I will just point out a couple of useful features that we'd like to you use as you develop scripts for this class. The first thing that you should do it create a new repository. You do this by clicking on the "+" button in the top left hand corner. Call you repository "CodingInPythonExercises".
+As you can see, the screenshot shows the tutorial selected. The tutorial is useful and will give you an overview of how to use the app. For now, I will just point out a couple of useful features that we'd like to you use as you develop scripts for this class. The first thing that you should do it create a new repository. You do this by clicking on the "+" button in the top left hand corner. Name your repository "CodingInPythonExercises".
 
 ![Create repo](../images/New_repo.png)
 
-When you create the repo it will give you the option to specify the Path. ```~/GitHub/CodingInPythonExercises``` is a reasonable place to keep it. 
+When you create the repo it will give you the option to specify the Path. ```~/GitHub/CodingInPythonExercises``` is a reasonable path for the repository.
+
+Now you can open the folder in Finder (on a mac). By "right clicking" (two finder click on the trackpad, or control + click) on the "CodingInPython" label in the lefthand pane and selecting, "Open in Finder". I imagine that the workflow is similar on a PC. This should give you an empty folder.
+
+To get started, you might want to create a text file called README.md. You can enter a little bit about your project in the README file. Once you write a little bit about the project, you can save it to the folder with the name "README.md". Your GitHub App will then update automatically and look something like this:
+
+![README](../images/README_image.png)
