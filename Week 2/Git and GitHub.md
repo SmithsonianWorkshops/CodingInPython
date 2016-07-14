@@ -20,3 +20,13 @@ Now you can open the folder in Finder (on a mac). By "right clicking" (two finde
 To get started, you might want to create a text file called README.md. You can enter a little bit about your project in the README file. Once you write a little bit about the project, you can save it to the folder with the name "README.md". Your GitHub App will then update automatically and look something like this:
 
 ![README](../images/README_image.png)
+
+Now we're going to 'commit' our code. In Git, a `commit` is when you 'commit' something to be added to the repository. Along with the commit, you are required to enter some sort of summary and an optional description. The summary should be short and descriptive. The description can add more information if needed. There are strong opinions on how to write good commit message. If you google it, you'll find lot's of opinions. In my opinion, a good commit message will never be longer than necessary (the 'summary' part should be fewer than 80 characters, if you need more, move it to the description). Ideally, you'd have some information on why the change you are posting in needed. Since this is the first commit with just a README, I put a simple summary without a description.
+
+![Commit](../images/commit.png)
+
+Now go ahead and press 'commit'. Then press the 'Publish' button on the top right. You will use this button the first time that you create a repository. Afterward, you will simply sync the repository.
+
+![New Repo](../images/create_new_repo.png)
+
+It will ask you if you want to keep your code private, uncheck that box. Then press on 'Publish Repository'. Now when you visit your GitHub account, the new repository should show up along with your README. To continue to add new files to your repository, you simply save them to the folder and the GitHub app does the rest.
