@@ -6,4 +6,13 @@ The purpose of the workshop is to teach participants introductory coding techniq
 
 [Week 0](Week\ 0): Contains instructions for installation of miniconda Python and the Submlime Text text editor.
 
-[Week 1](Week\ 1): The first week of instruction. Contains slides on coding and Python along with the first exercise.
+[Week 1](Week\ 1) (July 7, 2016): 
+* Rationale for learning to code
+* What is Python?
+* Hello World tutorial
+
+[Week 2](Week\ 2) (July 15, 2016):
+* Git and GitHub
+* Variables and Types
+* Strings
+* Conditional statements
