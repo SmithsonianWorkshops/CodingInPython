@@ -4,7 +4,7 @@ During class, we had to rush through the information on conditionals. We are pro
 
 #### Nested conditionals (if statements)
 
-Sometimes it can be useful to nest on 'if statement' inside another. As an example, imagine that I want to check if a string is fewer than 10 characters, but I also want to check if particular characters are in that string and do conduct different operations based on particular characters that may or may not be in the string. Here is some example code to portray what I’m talking about:
+Sometimes it can be useful to nest an `if` statement inside another. As an example, imagine that I want to check if a string is fewer than 10 characters, but I also want to check if particular characters are in that string and then conduct different operations based on particular characters that may or may not be in the string. Here is some example code to portray what I’m talking about:
 
 ```
 response = input("Please enter your last name: \n")
@@ -31,7 +31,7 @@ In the code above, I am doing two things:
 1. I am checking to see if the user's last name is fewer than 10 characters long.
 2. Given that the string is fewer than 10 characters long, I am then checking for characters in the string to find out some important features about the user's last name.
 
-Note that one if statement is inside the other. This is perfectly find and can be a powerful way to figure out information about some input.
+Note that one `if` statement is inside the other. This is perfectly fine and can be a powerful way to figure out information about some input.
 
 #### New operators
 
