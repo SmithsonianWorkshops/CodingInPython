@@ -16,7 +16,7 @@ if first_number.isnumeric() and second_number.isnumeric():
     if operation == 'add':
         answer = first_number + second_number
 
-    elif opration == 'multiply':
+    elif operation == 'multiply':
         answer = first_number * second_number
 
     ### You need to fill in the rest of the operations, and print an error if
