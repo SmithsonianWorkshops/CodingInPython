@@ -59,9 +59,18 @@ which will launch an instance of Jupyter Notebook in your browser. Navigate to w
 
 [For loops](for_loops.ipynb)
 
-Reading files
+[Reading files](Reading\ files.ipynb)
 
 [Lists](Lists.ipynb)
 
 ### Week 3 Homework Assignment
 
+Your homework assignment is to read in a file called "sequences.txt" that will contain 1 or more DNA sequences -- 1 per line. Here are example file contents:
+
+```
+AGCTCGATCGATACG
+GGCTCTCAAG
+CTAGCTAGACGA
+```
+
+Calculate the GC content for each sequence, and only print out the highest GC content value.
