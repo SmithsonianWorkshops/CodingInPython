@@ -11,8 +11,18 @@ The purpose of the workshop is to teach participants introductory coding techniq
 * What is Python?
 * Hello World tutorial
 
-[Week 2](Week\ 2) (July 15, 2016):
+[Week 2](Week\ 2) (July 14, 2016):
 * Git and GitHub
 * Variables and Types
 * Strings
 * Conditional statements
+
+[Week 3](Week\ 3) (July 21, 2016):
+* For loops
+* Reading files
+* Lists
+
+[Week 4](Week\ 4) (July 28, 2016):
+* Functions
+* Dictionaries
+
