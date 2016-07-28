@@ -37,7 +37,7 @@ This should open a blank file called "Python.sublime-settings". Copy and paste t
 
 ### Jupyter Notebook
 
-We will be following along with Jupyter Notebooks in class today, so we all we need to have that those set up to run on your computers. Paul sent out instructions on how to do this a week or 2 ago, but we'll go through it right now.
+We will be following along with Jupyter Notebooks in class today, so we all we need to have that those set up to run on your computers. Paul created a document on how to do this here: [Jupyter Instructions](jupyter_instructions.md), but we'll go through it right now.
 
 To install jupyter notebooks, open a Terminal or Command Prompt and type:
 
