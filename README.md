@@ -30,3 +30,9 @@ The purpose of the workshop is to teach participants introductory coding techniq
 * Functions
 * Dictionaries
 
+[Week 5](Week\ 5) (August 4, 2016):
+
+* Pseudocode and Flowcharts
+* While Loops
+* Writing files
+
