@@ -36,3 +36,8 @@ The purpose of the workshop is to teach participants introductory coding techniq
 * While Loops
 * Writing files
 
+[Week 6](Week\ 6) (August 11, 2016):
+
+* Import Statements
+* Course Review
+* Python Resources
